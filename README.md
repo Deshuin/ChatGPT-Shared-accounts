@@ -2,6 +2,12 @@
 
 ![](https://www.atriainnovation.com/wp-content/uploads/2023/01/Portada-1080x675.jpg.webp)
 
+## 汇总包括
+
+- ChatGPT 普通账号
+- ChatGPT Plus账号
+- ChatGPT 无限次调用API接口
+
 ## 项目信息
 
 - 商务合作：[DataTrickerBot](https://t.me/DataTrickerBot)
@@ -14,10 +20,6 @@
 - 每日更新
 - 及时维护
 - 长期运营
-
-- ChatGPT 普通账号
-- ChatGPT Plus账号
-- ChatGPT 无限次调用API接口
 
 ## 更新时间
 
